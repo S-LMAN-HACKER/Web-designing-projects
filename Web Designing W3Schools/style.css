@@ -1,0 +1,504 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.right-section{
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    height: 80px;
+    background-color: #1d2a35;
+}
+header img{
+    width: 50px;
+    height: 50px;
+}
+header ul li{
+    display: inline;
+    padding-left: 50px;
+}
+header ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.left-section{
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 50%;
+    height: 80px;
+    background-color: #1d2a35;
+}
+header ul li button{
+    margin-top: 15px;
+}
+.pro{
+    width: 75px;
+    height: 40px;
+    background-color: #fff;
+    border: none;
+    border-radius: 20px;
+}
+.get{
+    width: 125px;
+    height: 40px;
+    background-color: pink;
+    border: none;
+    border-radius: 20px;
+}
+.free{
+    width: 125px;
+    height: 40px;
+    background-color: yellow;
+    border: none;
+    border-radius: 20px;
+}
+.log{
+    width: 125px;
+    height: 40px;
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+}
+.learn{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    padding-top: 200px;
+    background-color: #0d1721;
+}
+.learn h1{
+    margin: 0;
+    padding: 0;
+    font-size: 75px;
+    color: #fff;
+}
+.learn h3{
+    color: pink; 
+}
+.learn input{
+    width: 400px;
+    height: 35px;
+    border-radius: 20px;
+}
+.learn a h3{
+    color: #fff;
+    text-decoration: underline;
+}
+.learn a h3:hover{
+    color: green;
+}
+.html{
+    width: 100%;
+    height: 700px;
+}
+.rt-section{
+    float: left;
+    width: 50%;
+    height: 700px;
+    background-color: #d9eee1;
+    text-align: center;
+}
+.lf-section{
+    float: right;
+    width: 50%;
+    height: 700px;
+    background-color: #d9eee1;
+}
+.rt-section h1{
+    margin: 0;
+    padding: 0;
+    margin-top: 15%;
+    font-size: 70px; 
+}
+.rt-section button{
+    width: 200px;
+    height: 50px;
+    margin-top: 25px;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+}
+.box{
+    width: 600px;
+    height: 500px;
+    border: 1px solid #000;
+    margin-top: 15%;
+    background-color: #38444d;
+}
+.box h1{
+    color: #fff;
+    margin-left: 25px;
+}
+.content{
+    width: 550px;
+    height: 350px;
+    border: 1px solid #000;
+    background-color: #15202b;
+    margin-left: 25px;
+}
+.content img{
+    width: 550px;
+    height: 350px;
+}
+.content button{
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    background-color: #04aa6d;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+}
+.css{
+    width: 100%;
+    height: 700px;
+}
+.r{
+    float: left;
+    width: 50%;
+    height: 700px;
+    background-color: #fff4a3;
+    text-align: center;
+}
+.l{
+    float: right;
+    width: 50%;
+    height: 700px;
+    background-color: #fff4a3;
+}
+.r h1{
+    margin: 0;
+    padding: 0;
+    margin-top: 15%;
+    font-size: 70px; 
+}
+.r button{
+    width: 200px;
+    height: 50px;
+    margin-top: 25px;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+}
+.box-1{
+    width: 600px;
+    height: 500px;
+    border: 1px solid #000;
+    margin-top: 15%;
+    background-color: #38444d;
+}
+.box-1 h1{
+    color: #fff;
+    margin-left: 25px;
+}
+.content1{
+    width: 550px;
+    height: 350px;
+    border: 1px solid #000;
+    background-color: #15202b;
+    margin-left: 25px;
+}
+.content1 img{
+    width: 550px;
+    height: 350px;
+}
+.box-1 button{
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 200px;
+    height: 50px;
+    background-color: #04aa6d;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+}
+.javascript{
+    width: 100%;
+    height: 700px;
+}
+.ri{
+    float: left;
+    width: 50%;
+    height: 700px;
+    background-color: #0d1721;
+    text-align: center;
+}
+.le{
+    float: right;
+    width: 50%;
+    height: 700px;
+    background-color: #0d1721;
+}
+.ri h1{
+    margin: 0;
+    padding: 0;
+    margin-top: 15%;
+    font-size: 70px; 
+    color: #fff;
+}
+.ri h5{
+    color: #fff;
+}
+.ri button{
+    width: 200px;
+    height: 50px;
+    margin-top: 25px;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+}
+.box-2{
+    width: 600px;
+    height: 500px;
+    border: 1px solid #000;
+    margin-top: 15%;
+    background-color: #38444d;
+}
+.box-2 h1{
+    color: #fff;
+    margin-left: 25px;
+}
+.content2{
+    width: 550px;
+    height: 350px;
+    border: 1px solid #000;
+    background-color: #15202b;
+    margin-left: 25px;
+}
+.content2 img{
+    width: 550px;
+    height: 350px;
+}
+.box-2 button{
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 200px;
+    height: 50px;
+    background-color: #04aa6d;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+}
+.python{
+    width: 100%;
+    height: 700px;
+}
+.rig{
+    float: left;
+    width: 50%;
+    height: 700px;
+    background-color: #f3ecea;
+    text-align: center;
+}
+.lef{
+    float: right;
+    width: 50%;
+    height: 700px;
+    background-color: #f3ecea;
+}
+.rig h1{
+    margin: 0;
+    padding: 0;
+    margin-top: 15%;
+    font-size: 70px; 
+}
+.rig button{
+    width: 200px;
+    height: 50px;
+    margin-top: 25px;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+}
+.box-3{
+    width: 600px;
+    height: 500px;
+    border: 1px solid #000;
+    margin-top: 15%;
+    background-color: #38444d;
+}
+.box-3 h1{
+    color: #fff;
+    margin-left: 25px;
+}
+.content3{
+    width: 550px;
+    height: 350px;
+    border: 1px solid #000;
+    background-color: #15202b;
+    margin-left: 25px;
+}
+.content3 img{
+    width: 550px;
+    height: 350px;
+}
+.box-3 button{
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 200px;
+    height: 50px;
+    background-color: #04aa6d;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+}
+.content4{
+    width: 100%;
+    height: 700px;
+}
+.righ{
+    float: left;
+    width: 50%;
+    height: 700px;
+    background-color: #96d4d4;
+    text-align: center;
+}
+.left{
+    float: right;
+    width: 50%;
+    height: 700px;
+    background-color: #96d4d4;
+}
+.righ h1{
+    margin: 0;
+    padding: 0;
+    margin-top: 15%;
+    font-size: 70px; 
+}
+.righ button{
+    width: 200px;
+    height: 50px;
+    margin-top: 25px;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+}
+.box-4{
+    width: 600px;
+    height: 500px;
+    border: 1px solid #000;
+    margin-top: 15%;
+    background-color: #38444d;
+}
+.box-4 h1{
+    color: #fff;
+    margin-left: 25px;
+}
+.content4{
+    width: 550px;
+    height: 350px;
+    border: 1px solid #000;
+    background-color: #15202b;
+    margin-left: 25px;
+}
+.content4 img{
+    width: 550px;
+    height: 350px;
+}
+.box-4 button{
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 200px;
+    height: 50px;
+    background-color: #04aa6d;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+}
+.container{
+    width: 100%;
+    height: 390vh;
+}
+.right{
+    float: left;
+    width: 50%;
+    height: 390vh;
+    background-color: #0d1721;
+}
+.lef-t{
+    float: right;
+    width: 50%;
+    height: 390vh;
+    background-color: #0d1721;
+}
+.box-5{
+    width: 500px;
+    height: 250px;
+    border: 1px solid #fff;
+    margin-left: 150px;
+    margin-top: 100px;
+    text-align: center;
+}
+.box-5 h1{
+    margin-top: 75px;
+}
+.box-5 button{
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    background-color: #1d2a35;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.4s ease;
+}
+.box-5 button:hover{
+    background-color: #0d1721
+}
+.box-6{
+    margin-left: 135px;
+    margin-top: 100px;
+}
+.box-6 button{
+    width: 535px;
+    height: 150px;
+    font-size: 50px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.box-7{
+    width: 700px;
+    height: 140vh;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.box-7 button{
+    width: 250px;
+    height: 100px;
+    margin-left: 35px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.box-8{
+    margin-left: 135px;
+    margin-top: 100px;
+}
+.box-8 button{
+    width: 535px;
+    height: 150px;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.editor{
+    width: 100%;
+    height: 1400px;
+    background-color: #0d1721;
+    text-align: center;
+    color: #fff;
+}
+.editor h1{
+    font-size: 70px;
+}
