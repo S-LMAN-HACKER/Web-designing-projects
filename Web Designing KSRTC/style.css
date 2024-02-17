@@ -1,0 +1,220 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+header{
+    text-align: center;
+    padding: 15px;
+    box-shadow: 0 0 3px #000;
+}
+header li{
+    display: inline;
+    padding-left: 45px;
+}
+header li a {
+    color: #000;
+    text-decoration: none;
+    padding: 13px;
+    transition: 0.3s ease;
+}
+header li a:hover{
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+}
+header li img{
+    width: 400px;
+    float: left;
+    margin-top: -20px;
+}
+.active{
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+}
+.nav-bar{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    background-color: rgb(48, 29, 48);
+}
+.nav-bar p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+}
+.nav-bar p a{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+
+.container marquee{
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 0, 0);
+}
+/* right-sectoin*/
+.right-section{
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    height: 140vh;
+    background-color: rgb(236, 234, 234);
+    float: left;
+}
+.right-section h4{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-left: 110px;
+    font-size: 30px;
+}
+.box-1{
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    height: 250px;
+    border: 1px solid #fff;
+    margin-left: 200px;
+    background-color: #fff;
+    box-shadow: 0 0 3px #000;
+}
+.box-1 img{
+    margin: 0;
+    padding: 0;
+    padding-left: 120px;
+}
+.box-1 h5{
+    margin: 0;
+    padding: 0;
+    padding-left: 101px;
+}
+.box-1 p{
+    margin: 0;
+    padding: 0;
+    padding-left: 50px;
+}
+.box-1 footer a{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    padding-left: 250px;
+}
+.box-2{
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    height: 250px;
+    border: 1px solid #fff;
+    margin-left: 200px;
+    background-color: #fff;
+    margin-top: 20px;
+    box-shadow: 0 0 3px #000;
+}
+.h4{
+    color: rgb(255, 0, 0);
+}
+.box-2 h5{
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+.box-3{
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    height: 385px;
+    border: 1px solid #fff;
+    margin-left: 200px;
+    background-color: #fff;
+    margin-top: 30px;
+    box-shadow: 0 0 3px #000;
+}
+.box-3 h5{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+/*Left Section*/
+.left-section{
+    margin: 0;
+    padding: 0;
+    width: 983px;;
+    height: 140vh;
+    background-color: rgb(236, 234, 234);
+    float: right;
+
+}
+.left-section h4{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-left: 11px;
+    font-size: 30px;
+}
+.box-4{
+    width: 400px;
+    height: 500px;
+    border: 1px solid #fff;
+    box-shadow: 0 0 3px #000;
+    margin-left: 250px;
+    background-color: #fff;
+}
+.sb-1{
+    width: 100px;
+    height: 75px;
+    border: 1px solid #fff;
+    box-shadow: 0 0 3px #000;
+    margin-left: 25px;
+    margin-top: 25px;
+    background-color: rgb(236, 234, 234);
+}
+.sb-1 h6{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.sb-1 a{
+    text-decoration: none;
+}
+.sb-2{
+    width: 100px;
+    height: 75px;
+    border: 1px solid #fff;
+    box-shadow: 0 0 3px #000;
+    margin-left: 25px;
+    margin-top: 25px;
+    background-color: rgb(236, 234, 234);
+    float: right;
+    margin: 0 auto;
+    margin-top: -76px;
+    margin-right: 25px;
+}
+.sb-2 h6{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.sb-2 a{
+    text-decoration: none;
+}
+.sb-3{
+    width: 100px;
+    height: 75px;
+    border: 1px solid #fff;
+    box-shadow: 0 0 3px #000;
+    margin-left: 25px;
+    margin-top: 25px;
+    background-color: rgb(236, 234, 234);
+    float: right;
+    margin-top: -76px;
+    margin-right: 22px;
+}
+.sb-3 h6{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.sb-3 a{
+    text-decoration: none;
+}
